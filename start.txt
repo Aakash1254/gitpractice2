@@ -2,5 +2,15 @@ hello world , i am come
 git remote add origin https://github.com/Aakash1254/gitpractice2.git
 git remote -v //to verify remote
 git branch //to see branch
-git branch -m main //change branch name master to main
+git branch -m main //change branch name master to main (main changed name)
 git push -u origin main // next time use only git push to push in main branch only
+git add .
+git commit -m "initial command"   //  
+git push //push in main branch 
+
+github repo - clone-change-add-commit-push   //clone-github file to computer
+github repo-remote-change add-commit-push  // access repo branch link to computer than correct files and add files
+github clone url  //url of repo
+git checkout -b feature1  //to create new branch
+git checkout main //if you want to change branch
+git branch -d feature2 //delete of feature2 branch after in main/feature1   okkkkkk
