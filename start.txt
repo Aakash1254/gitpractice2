@@ -1,1 +1,6 @@
 hello world , i am come
+git remote add origin https://github.com/Aakash1254/gitpractice2.git
+git remote -v //to verify remote
+git branch //to see branch
+git branch -m main //change branch name master to main
+git push -u origin main // next time use only git push to push in main branch only
